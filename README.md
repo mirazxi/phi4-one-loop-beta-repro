@@ -11,7 +11,7 @@ This repository accompanies the manuscript:
 - `figures/Fig2_Delta_vs_invLambda2.pdf` — residual \(\Delta(\Lambda)\) vs \(1/\Lambda^2\) with asymptote.
 
 ## Reproduce the figures
-### Option A: Python + pip (recommended)
+### Python + pip (recommended)
 ```bash
 python -m venv .venv
 # activate:
